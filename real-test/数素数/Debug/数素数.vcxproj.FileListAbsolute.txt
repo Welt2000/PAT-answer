@@ -1,0 +1,2 @@
+F:\PAT\数素数\Debug\数素数.exe
+F:\PAT\数素数\Debug\数素数.pdb

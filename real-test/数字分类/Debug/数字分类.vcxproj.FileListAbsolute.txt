@@ -1,0 +1,2 @@
+F:\PAT\数字分类\Debug\数字分类.exe
+F:\PAT\数字分类\Debug\数字分类.pdb

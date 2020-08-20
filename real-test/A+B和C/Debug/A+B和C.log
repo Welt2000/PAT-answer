@@ -1,0 +1,5 @@
+﻿  源.cpp
+F:\PAT\A+B和C\源.cpp(17,45): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
+F:\PAT\A+B和C\源.cpp(17,34): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
+F:\PAT\A+B和C\源.cpp(17,23): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
+  A+B和C.vcxproj -> F:\PAT\A+B和C\Debug\A+B和C.exe

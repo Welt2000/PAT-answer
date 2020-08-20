@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\PAT\数素数\源.cpp(5,20): warning C4018: “<”: 有符号/无符号不匹配
+  数素数.vcxproj -> F:\PAT\数素数\Debug\数素数.exe
