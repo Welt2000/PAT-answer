@@ -1,0 +1,9 @@
+﻿  源.cpp
+F:\PAT-answer\real-test\福尔摩斯的约会\源.cpp(31,12): warning C4018: “<”: 有符号/无符号不匹配
+F:\PAT-answer\real-test\福尔摩斯的约会\源.cpp(31,28): warning C4018: “<”: 有符号/无符号不匹配
+F:\PAT-answer\real-test\福尔摩斯的约会\源.cpp(40,14): warning C4018: “<”: 有符号/无符号不匹配
+F:\PAT-answer\real-test\福尔摩斯的约会\源.cpp(40,27): warning C4018: “<”: 有符号/无符号不匹配
+F:\PAT-answer\real-test\福尔摩斯的约会\源.cpp(48,15): warning C4018: “<”: 有符号/无符号不匹配
+F:\PAT-answer\real-test\福尔摩斯的约会\源.cpp(48,31): warning C4018: “<”: 有符号/无符号不匹配
+F:\PAT-answer\real-test\福尔摩斯的约会\源.cpp(57,10): warning C4101: “mm”: 未引用的局部变量
+  福尔摩斯的约会.vcxproj -> F:\PAT-answer\real-test\福尔摩斯的约会\Debug\福尔摩斯的约会.exe
